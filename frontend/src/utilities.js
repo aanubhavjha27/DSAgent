@@ -1,0 +1,1 @@
+export const authurl="http://localhost:3000"
