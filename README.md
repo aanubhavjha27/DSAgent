@@ -23,10 +23,7 @@
 
 ## 🎥 Demo Video
 
-<!-- Add demo video here -->
-```
-[ DEMO VIDEO HERE ]
-```
+https://github.com/user-attachments/assets/2b6f0f20-5897-4158-b3a4-e9e08476ecf5
 
 ---
 
@@ -37,7 +34,8 @@
 | 🏠 Landing Page | 
 
 | <img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/c48e2318-a1b1-44f9-8055-f9f7e1ea4a28" />  |
-|🔐 Login |
+
+  🔐Login
 
 |<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/f290dd21-9d3d-4564-a4b2-503f4ca0f6b9" />|
 
